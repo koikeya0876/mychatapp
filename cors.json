@@ -1,0 +1,7 @@
+[{
+	  "origin": ["mychatapp-a75f4.firebaseapp.com"],
+	    "responseHeader": ["*"],
+	      "method": ["GET"],
+	        "maxAgeSeconds": 86400
+}]
+
